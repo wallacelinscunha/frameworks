@@ -1,0 +1,7 @@
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\bin\Debug\DataEntity.dll
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\bin\Debug\DataEntity.pdb
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\obj\Debug\DataEntity.csprojResolveAssemblyReference.cache
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\obj\Debug\DataEntity.dll
+C:\Users\Wallace\Source\Workspaces\VS\Frameworks\General Frameworks\DataEntity\obj\Debug\DataEntity.pdb

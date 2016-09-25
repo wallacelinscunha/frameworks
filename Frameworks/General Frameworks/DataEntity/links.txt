@@ -1,0 +1,2 @@
+﻿Tutorial empty data model.
+https://msdn.microsoft.com/en-us/data/jj205424
